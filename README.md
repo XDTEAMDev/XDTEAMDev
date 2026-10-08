@@ -9,7 +9,6 @@
 [![X](https://img.shields.io/badge/X-@XDKTeamDev-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/XDKTeamDev)
 [![YouTube](https://img.shields.io/badge/YouTube-XDK%20STREAM-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCHyz3_kVTo_J9HSnqFHEBUg)
 [![TikTok](https://img.shields.io/badge/TikTok-@xdk__vito-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@xdk_vito)
-[![Instagram](https://img.shields.io/badge/Instagram-@xdkteamdev-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/xdkteamdev/)
 [![Instagram perso](https://img.shields.io/badge/Instagram-@xdk__vito-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/xdk_vito)
 
 </div>
