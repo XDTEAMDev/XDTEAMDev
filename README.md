@@ -3,7 +3,7 @@
 <img src="images/banniere.png" alt="XDK TEAM DEV" width="100%">
 
 ### Homebrews PS5 · Mods · Logiciels PC · Jeux Roblox
-**PS5 homebrews · Mods · PC software · Roblox games** · 🇫🇷 FR · 🇬🇧 EN
+**PS5 homebrews · Mods · PC software · Roblox games** · FR · EN 🌍
 
 [![Discord XDK TEAM DEV](https://img.shields.io/badge/Discord-XDK%20TEAM%20DEV-2EE86F?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/zEC35KSuxt)
 [![X](https://img.shields.io/badge/X-@XDKTeamDev-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/XDKTeamDev)
@@ -18,7 +18,7 @@
 
 ## 🎮 Nos projets · Our projects
 
-| | Projet · Project | 🇫🇷 | 🇬🇧 |
+| | Projet · Project | Français | English |
 |---|---|---|---|
 | 🎮 | **XDK Mod Menus** · [versions / releases](https://github.com/XDTEAMDev/XDK-TEAM-DEV-releases/releases/tag/xdk-mod-menus) | Homebrew PS5 : choisis et active tes mod menus Xbox 360 (émulateur PS5X360) depuis la console, sans PC. Il se met à jour tout seul. | PS5 homebrew: pick and turn on your Xbox 360 mod menus (PS5X360 emulator) from the console, no PC needed. Updates itself. |
 | 🔥 | **GTA IV Remastered** *(en cours · in progress)* | Mods, patchs et multijoueur pour GTA IV sur PS5, grâce à PS5X360. | Mods, patches and multiplayer for GTA IV on PS5, thanks to PS5X360. |
@@ -52,6 +52,6 @@ Our Xbox 360 menus run in **PS5X360**, the Xbox 360 emulator for PS5 made by **B
 
 <img src="images/logo_460.png" alt="XDK TEAM DEV" width="120">
 
-**XDK TEAM DEV** · 🇧🇪 🇫🇷 · par / by **xdk_vito**
+**XDK TEAM DEV** · Belgique · par / by **xdk_vito**
 
 </div>
