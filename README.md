@@ -43,10 +43,10 @@
 - **[Discord XDK TEAM DEV](https://discord.gg/zEC35KSuxt)** : homebrews PS5, logiciels PC, aide et nouvelles versions, en français et en anglais · PS5 homebrews, PC software, help and new releases, in French and English.
 - **[Discord XDK TEAM GAMES](https://discord.gg/8cUgTAHySB)** : nos jeux Roblox · our Roblox games.
 
-## 🙏 Merci · Thanks
+## 🤝 Collab PS5X360 · Merci · Thanks
 
-Nos menus Xbox 360 tournent dans **[PS5X360](https://github.com/BrinooTk/PS5X360)**, l'émulateur Xbox 360 pour PS5 créé par **[BrinooTk](https://github.com/BrinooTk)** ([@BrinoTk](https://x.com/BrinoTk)). Merci pour ta confiance !
-Our Xbox 360 menus run in **PS5X360**, the Xbox 360 emulator for PS5 made by **BrinooTk**. Thank you for your trust!
+On collabore avec **[PS5X360](https://github.com/BrinooTk/PS5X360)**, l'émulateur Xbox 360 pour PS5 créé par **[BrinooTk](https://github.com/BrinooTk)** ([@BrinoTk](https://x.com/BrinoTk)) : nos menus et GTA IV Remastered tournent dedans. PS5X360 est son projet, pas le nôtre. Merci pour ta confiance !
+We collaborate with **PS5X360**, the Xbox 360 emulator for PS5 made by **BrinooTk**: our menus and GTA IV Remastered run in it. PS5X360 is his project, not ours. Thank you for your trust!
 
 <div align="center">
 
