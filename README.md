@@ -37,6 +37,7 @@
 | 🔴 | [**Mon Brainrot de Live**](https://www.roblox.com/games/95265151121763) | Jeu de live TikTok : chaque viewer a son brainrot · TikTok live game: every viewer gets a brainrot |
 | 🆚 | [**La Guerre des Plateformes**](https://www.roblox.com/games/124233651218908) | TikTok contre Twitch contre Kick : les armées du chat s'affrontent · chat armies battle across platforms |
 | 🧗 | [**La Tour du Chat**](https://www.roblox.com/games/125462947828605) | Le streamer grimpe, le chat construit ou piège · the streamer climbs, chat builds or traps |
+| 🎧 | [**XDK LIVE FESTIVAL**](https://www.roblox.com/games/86987576411794) | Festival électro du live : écris !dance TonPseudo, ton avatar danse · live EDM festival: type !dance and your avatar dances |
 
 💬 Le Discord de tous nos jeux Roblox · The Discord of all our Roblox games: **[XDK TEAM GAMES](https://discord.gg/8cUgTAHySB)**
 ⚡ Groupe Roblox · Roblox group: **[TEAM XDK](https://www.roblox.com/communities/3626446/TEAM-XDK)**
