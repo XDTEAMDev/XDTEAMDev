@@ -33,6 +33,10 @@
 | 🥷 | [**Ninja Glow Up**](https://www.roblox.com/games/125057994259676) | Simulateur anime · anime simulator |
 | 🥚 | [**Vole les Œufs du Voisin**](https://www.roblox.com/games/120962189444762) | Vole les œufs, fuis la batte · steal the eggs, dodge the bat |
 | 🧠 | [**Attrape ton Brainrot**](https://www.roblox.com/games/110997284568526) | 20 zones · 300 brainrots |
+| 🪖 | [**XDK WARFARE**](https://www.roblox.com/games/113981757285689) | FPS façon Call of Duty · CoD-style FPS |
+| 🔴 | [**Mon Brainrot de Live**](https://www.roblox.com/games/95265151121763) | Jeu de live TikTok : chaque viewer a son brainrot · TikTok live game: every viewer gets a brainrot |
+| 🆚 | [**La Guerre des Plateformes**](https://www.roblox.com/games/124233651218908) | TikTok contre Twitch contre Kick : les armées du chat s'affrontent · chat armies battle across platforms |
+| 🧗 | [**La Tour du Chat**](https://www.roblox.com/games/125462947828605) | Le streamer grimpe, le chat construit ou piège · the streamer climbs, chat builds or traps |
 
 💬 Le Discord de tous nos jeux Roblox · The Discord of all our Roblox games: **[XDK TEAM GAMES](https://discord.gg/8cUgTAHySB)**
 ⚡ Groupe Roblox · Roblox group: **[TEAM XDK](https://www.roblox.com/communities/3626446/TEAM-XDK)**
